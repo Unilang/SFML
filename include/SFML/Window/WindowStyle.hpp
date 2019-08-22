@@ -24,6 +24,7 @@
 
 #ifndef SFML_WINDOWSTYLE_HPP
 #define SFML_WINDOWSTYLE_HPP
+#undef None
 
 
 namespace sf
